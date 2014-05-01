@@ -30,11 +30,11 @@ Parallax Propeller as host system.
 
 Open Source / Freeware used:
 ============================
-Google SketchUp<br>
-    http://www.sketchup.com/
-SimpleIDE<br>
-    http://learn.parallax.com/propeller-c-set-simpleide
-TextWrangler<br>
-    http://www.barebones.com/products/textwrangler/
-netfabb Basic<br>
-    http://www.netfabb.com/basic.php
+Google SketchUp
+    http://www.sketchup.com/<br>
+SimpleIDE
+    http://learn.parallax.com/propeller-c-set-simpleide<br>
+TextWrangler
+    http://www.barebones.com/products/textwrangler/<br>
+netfabb Basic
+    http://www.netfabb.com/basic.php<br>
