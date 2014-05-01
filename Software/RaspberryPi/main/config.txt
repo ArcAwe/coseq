@@ -1,0 +1,6 @@
+# This is the congif file, right now it only accepts CMD_TYPE
+# CMD_TYPE:
+# 0 = NOT USED
+# 1 = complete manual (this is very difficult to fly with, but good for testing)
+# 2 = manual thrust, autolevel to angle given by controller
+CMD_TYPE=2

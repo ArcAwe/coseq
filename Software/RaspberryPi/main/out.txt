@@ -1,0 +1,6 @@
+2014-04-19 2336 Starting.
+2014-04-19 2336 Reading config.txt
+2014-04-19 2336 Set CMD_TYPE to 2
+2014-04-19 2336 Configurations read.
+2014-04-19 2337 KeyboardInterrupt - ending
+
