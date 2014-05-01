@@ -1,5 +1,5 @@
-coseq
-=====
+<i>coseq</i>
+============
 
 Cadet Open Source Extensible Quadcopter (COSEQ) Design Documents and Code.
 
