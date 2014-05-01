@@ -1,0 +1,16 @@
+part3.cpp
+COSEQ.cpp -> COSEQ.cpp
+I2Cdev.cpp -> I2Cdev.cpp
+MPU6050.cpp -> MPU6050.cpp
+PropServo.cpp -> PropServo.cpp
+quadcmd.cpp -> quadcmd.cpp
+>compiler=C++
+>memtype=cmm main ram compact
+>optimize=-Os
+>-m32bit-doubles
+>-Wall
+>-fno-exceptions
+>-fno-rtti
+>-lm
+>-lpthread
+>BOARD::GENERIC
